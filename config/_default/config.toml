@@ -49,29 +49,29 @@ summaryLength = "10"
   URL = "contact"
   weight = 5
 
-  [[menu.club_name]]
+  [[menu.fhc]]
     name = "About"
-    URL = "club_name/about"
+    URL = "fhc/about"
     weight = 2
     
-  [[menu.club_name]]
+  [[menu.fhc]]
     name = "Archives"
-    URL = "club_name/archive"
+    URL = "fhc/archive"
     weight = 3
     
-  [[menu.club_name]]
+  [[menu.fhc]]
     name = "Events"
-    URL = "club_name/events"
+    URL = "fhc/events"
     weight = 4
     
-  [[menu.club_name]]
+  [[menu.fhc]]
     name = "Contact"
-    URL = "club_name/contact"
+    URL = "fhc/contact"
     weight = 5
 
 [params]
 logo = "images/logo.png"
-club_nameURL = "https://www.clubs.iiit.ac.in/clubs/club_name"
+fhcURL = "https://www.clubs.iiit.ac.in/clubs/fhc"
 
 # Meta data
 
